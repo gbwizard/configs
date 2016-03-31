@@ -11,7 +11,7 @@ nnoremap <Tab> <C-W><C-W>
 execute pathogen#infect()
 
 " NERDTree plugin
-nnoremap _t :NERDTreeTabsToggle<CR>
+nnoremap _T :NERDTreeTabsToggle<CR>
 
 " BufExplorer
 nnoremap <silent> <F12> :BufExplorer<CR>
